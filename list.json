@@ -3,27 +3,27 @@
         {
             "title": "5번글",
             "writer": "김오번",
-            "reg_date": "new Date()"
+            "reg_date": "1521282414674"
         },
         {
             "title": "4번글",
             "writer": "김사번",
-            "reg_date": "new Date()"
+            "reg_date": "1521282414674"
         },
         {
             "title": "3번글",
             "writer": "김삼번",
-            "reg_date": "new Date()"
+            "reg_date": "1521282414674"
         },
         {
             "title": "2번글",
             "writer": "김이번",
-            "reg_date": "new Date()"
+            "reg_date": "1521282414674"
         },
         {
             "title": "1번글",
             "writer": "김일번",
-            "reg_date": "new Date()"
+            "reg_date": "1521282414674"
         }
     ]
 }
